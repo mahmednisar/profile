@@ -1,0 +1,51 @@
+[
+  
+    {
+      "title"    : "Programmer&#39;s Wiki",
+      "category" : "",
+      "tags"     : "Programmer's Wiki",
+      "url"      : "/articles/programmer's-wiki",
+      "date"     : "2019-10-11 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "Digital Minimalism",
+      "category" : "",
+      "tags"     : "Social Media, Minimalism, Technology",
+      "url"      : "/articles/digital-minimalism",
+      "date"     : "2019-02-20 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "Clean Coding",
+      "category" : "",
+      "tags"     : "Software Development, Clean Code",
+      "url"      : "/articles/clean-coding",
+      "date"     : "2018-12-10 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "GitHub Flow",
+      "category" : "",
+      "tags"     : "GitHub, Workflow",
+      "url"      : "/articles/github-flow",
+      "date"     : "2017-01-01 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "A better Hello World",
+      "category" : "",
+      "tags"     : "Software Development",
+      "url"      : "/articles/a-better-hello-world",
+      "date"     : "2016-07-23 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "What is version control?",
+      "category" : "",
+      "tags"     : "Version Control",
+      "url"      : "/articles/what-is-version-control",
+      "date"     : "2016-02-09 00:00:00 +0530"
+    } 
+  
+]
